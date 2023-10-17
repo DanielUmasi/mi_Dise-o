@@ -1,2 +1,4 @@
 <PROYECTO DE DISEÑO>
 1. Eleccion del diseño
+2. Eleccion del diseño segun normas
+3. Entregar lista de exigencias
