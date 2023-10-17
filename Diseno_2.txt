@@ -1,0 +1,4 @@
+<PROYECTO DE CAD/CAM>
+1. Eleccion del diseño
+2. Entregar lista de exigencias
+3. Presentar avances de bocetos
